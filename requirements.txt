@@ -1,6 +1,5 @@
 fastapi
 uvicorn
-guvicorn
 numpy
 joblib
 scipit-learn
