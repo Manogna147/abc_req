@@ -1,5 +1,5 @@
-fastapi
-uvicorn
-numpy
-joblib
+streamlit
+pandas
 scikit-learn
+pywin32==311; sys_platform == 'win32'
+
